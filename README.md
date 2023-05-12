@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on The Home Edit & Daisy<br>👯 I’m  not looking to collaborate on anything<br>🌱 I’m currently learning Javascript and Machine Learning<br>⚡ Fun fact- I'm 15
+🔭 I’m currently working on The Home Edit & Daisy<br>👯 I’m  not looking to collaborate on anything<br>🌱 I’m currently learning Javascript and Machine Learning<br>⚡ Fun fact- I'm 16
 
 
 ## 🌐 Socials:
